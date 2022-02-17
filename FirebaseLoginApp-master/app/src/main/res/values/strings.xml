@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Firebase Login App</string>
+    <string name="action_sign_in_short">Register</string>
+    <string name="email">Email</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="new_pass">New Password</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">New user? Register Now</string>
+    <string name="btn_link_to_login">Already registered. Login Me!</string>
+    <string name="hint_new_email">New Email</string>
+    <string name="btn_sign_out">Sign Out</string>
+
+    <string name="facebook_app_id">636219931013448</string>
+    <string name="fb_login_protocol_scheme">fb636219931013448</string>
+
+</resources>
+

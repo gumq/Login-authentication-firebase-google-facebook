@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "495305765365",
+    "project_id": "login-62c12",
+    "storage_bucket": "login-62c12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495305765365:android:25dc34bf6e5a0dcced70bc",
+        "android_client_info": {
+          "package_name": "com.tranlequyen.firebaseloginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495305765365-ptnipcdvtpdlranmpjomcnq2e11n2fof.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tranlequyen.firebaseloginapp",
+            "certificate_hash": "8ece97edafd6ddbeaa118f1218d89a77796f443f"
+          }
+        },
+        {
+          "client_id": "495305765365-iuvj0ufk8id38dgf4v3jsbcsl8tiai4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHFrXHLPLEF205ie-N7BK_DMeruMZKCnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495305765365-iuvj0ufk8id38dgf4v3jsbcsl8tiai4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
