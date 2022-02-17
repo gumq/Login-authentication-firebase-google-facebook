@@ -1,4 +1,4 @@
-# Login-authentication-firebase-google-facebook
+# Login with Google, Facebook using Firebase Authentication 
 Authenticate on Android Using Social Logins, Register, restCountry api
 ## Cộng nghệ :restCountry API, Retrofit, Firebase Authentication, Facebook Developer,...
 ![image](https://user-images.githubusercontent.com/73639297/154478447-a325f8e5-1d77-4eb9-a454-de5b8c50783d.png)   
